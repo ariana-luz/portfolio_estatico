@@ -1,0 +1,1 @@
+SELECT * FROM mi_portfolio.proyectos;
